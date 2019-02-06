@@ -1,7 +1,7 @@
 /*HailstoneSeries*/
 console.log('Hailstone series');
 
-let a0 = 10;
+let a0 = 23061912;
 let a = a0;
 let counter = 0;
 let bufferRow = [a];
